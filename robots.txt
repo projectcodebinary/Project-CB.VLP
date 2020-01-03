@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /contactform
+Disallow: /js
+Disallow: /css
+Disallow: /lib
+Disaalow: /settings
+Sitemap: https://vlp.codebinary.in/sitemap.xml

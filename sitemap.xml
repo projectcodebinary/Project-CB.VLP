@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://vlp.codebinary.in/</loc>
+  <lastmod>2019-06-11T11:24:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://vlp.codebinary.in/register.php</loc>
+  <lastmod>2019-06-11T11:24:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vlp.codebinary.in/privacy-policy.html</loc>
+  <lastmod>2019-06-11T11:17:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vlp.codebinary.in/terms-of-service.html</loc>
+  <lastmod>2019-06-11T11:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vlp.codebinary.in/acceptable-use-policy.html</loc>
+  <lastmod>2019-06-11T11:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
